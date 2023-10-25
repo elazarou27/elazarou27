@@ -1,4 +1,4 @@
-- #👋 Hi, I’m @elazarou27
+# @elazarou27
 - 👀 My student id is: 21059415
 - 📫 My email is: elazarou@uclan.ac.uk
 
